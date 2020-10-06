@@ -10,6 +10,7 @@ a { color:#27ae60 ; }
 a:link { text-decoration:none; }
 a:hover { color:#145a32; }
 
+ul { list-style-type:none; }
 nav li { display:inline-block; padding:0 16px 0 0; }
 
 h1 { color:#154360 ; font-size:40px; line-height:32px; font-weight:400; margin:10px; padding:8px 0;}
