@@ -16,8 +16,8 @@ h2, h3, h4, h5 { font-weight:400; margin:10px; padding:8px 0; font-size:24px; li
 nav { font-family:"biolinum_r_g"; sans-serif; text-transform:uppercase; }
 
 p {
-  <!-- display: block;
-  width: 400px;-->
+  display: block;
+  width: 400px;
   margin: 50px auto;
   font: 30px 'Helvetica Neue', 'Arial', 'Sans-Serif';
 }
