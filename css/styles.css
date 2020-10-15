@@ -24,6 +24,10 @@ p {
   font: 1.5em 'Helvetica Neue', 'Arial', 'Sans-Serif';
 }
 
+table td {
+  padding: 5px;
+  vertical-align: top;
+}
 
 footer {color:#283747; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; font-size:0.8em; font-weight:400;
     display: block;
