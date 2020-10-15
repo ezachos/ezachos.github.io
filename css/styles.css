@@ -4,7 +4,7 @@
 }
 
 html {background-color: #d4e6f1; background:#d4e6f1; min-height:100%; overflow-y:scroll; position:relative; }
-body { color: #283747 ; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; margin:10px 10px; wideth 80%;}
+body { color: #283747 ; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; margin:10px 10px; width 80%;}
 
 a { color:#27ae60 ; }
 a:link { text-decoration:none; }
@@ -13,18 +13,18 @@ a:hover { color:#145a32; }
 ul { list-style-type:none; }
 nav li { display:inline-block; padding:0 16px 0 0; }
 
-h1 { color:#154360 ; font-size:40px; line-height:32px; font-weight:400; margin:10px; padding:8px 0;}
-h2, h3, h4, h5 { font-weight:400; margin:10px; padding:8px 0; font-size:24px; line-height:28px; }
+h1 { color:#154360 ; font-size:3em; font-weight:400; margin:10px; padding:8px 0;}
+h2, h3, h4, h5 { font-weight:400; margin:10px; padding:8px 0; font-size:2.5em; }
 nav { font-family:"biolinum_r_g"; sans-serif; text-transform:uppercase; }
 
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px 'Helvetica Neue', 'Arial', 'Sans-Serif';
+  font: 1.5em 'Helvetica Neue', 'Arial', 'Sans-Serif';
 }
 
 
-footer {color:#283747; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; font-size:10px; font-weight:400; line-height:2px;
+footer {color:#283747; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; font-size:0.8em; font-weight:400;
     display: block;
 }
