@@ -4,7 +4,7 @@
 }
 
 html {background-color: #d4e6f1; background:#d4e6f1; min-height:100%; overflow-y:scroll; position:relative; }
-body { color: #283747 ; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; margin:10px 10px; width 80%;}
+body { color: #283747 ; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; margin:10px 10px; width 90%;}
 
 a { color:#27ae60 ; }
 a:link { text-decoration:none; }
@@ -29,6 +29,6 @@ table td {
   vertical-align: top;
 }
 
-footer {color:#283747; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; font-size:0.8em; font-weight:400;
+footer {color:#283747; font-family:'Helvetica Neue', 'Arial', 'Sans-Serif'; font-size:0.4em; font-weight:400;
     display: block;
 }
