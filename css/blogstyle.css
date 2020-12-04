@@ -14,8 +14,7 @@ ul { list-style-type:none; }
 nav li { display:inline-block; padding: 0 16px 8px 0; }
 
 h1 { color:#154360 ; font-size:2.5em; font-weight:400; margin:0px; padding:8px 4px;}
-h2 { font-weight:400; margin:0px; padding:6px 0px 2px; font-size:2em; }
-h3, h4, h5 { font-weight:400; margin:0px; padding:6px 0px 2px; font-size:1.5em; }
+h2, h3, h4, h5 { font-weight:400; margin:0px; padding:6px 0px 2px; font-size:2em; }
 nav { font-family:'Helvetica Neue', 'Arial', 'Sans-Serif';/*"biolinum_r_g";sans-serif;*/  text-transform:uppercase; }
 
 p {
